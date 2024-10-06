@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to
 ---
 wop wop wop wop wop dot fuck em up
