@@ -1,0 +1,3 @@
+---
+title: French Index Page
+---
