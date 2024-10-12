@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"33f47e5a5e032a38","type":"text","text":"Studying Strategies","x":-120,"y":-120,"width":200,"height":60,"color":"1"},
+		{"id":"f3aafba5f64f3bf4","type":"text","text":"Spaced Repetition","x":405,"y":-30,"width":195,"height":60},
+		{"id":"f50e14e8941ceef0","type":"text","text":"Active Recall","x":950,"y":-90,"width":250,"height":60},
+		{"id":"d5bc50189806b2a4","type":"text","text":"Practice Tests","x":1340,"y":-260,"width":250,"height":60},
+		{"id":"8d99f8822cffcafb","type":"text","text":"Spontaneous Questions","x":1340,"y":60,"width":250,"height":60},
+		{"id":"a0498073af2b3557","type":"text","text":"Material Review","x":700,"y":90,"width":250,"height":60},
+		{"id":"4bd5e75cab294a5f","type":"text","text":"Pre-study","x":-103,"y":-420,"width":167,"height":50},
+		{"id":"ad55e25e3e39b42e","type":"text","text":"Mindmaps","x":-103,"y":220,"width":165,"height":50},
+		{"id":"3db9b919b05a5a17","type":"text","text":"Feynman Technique","x":1340,"y":-90,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"36673b8903039eb6","fromNode":"33f47e5a5e032a38","fromSide":"right","toNode":"f3aafba5f64f3bf4","toSide":"left"},
+		{"id":"84b90bc93dfe9403","fromNode":"f3aafba5f64f3bf4","fromSide":"right","toNode":"f50e14e8941ceef0","toSide":"left"},
+		{"id":"3fbf0924f8f45510","fromNode":"f50e14e8941ceef0","fromSide":"right","toNode":"d5bc50189806b2a4","toSide":"left"},
+		{"id":"3bae88426402a8d7","fromNode":"f50e14e8941ceef0","fromSide":"right","toNode":"3db9b919b05a5a17","toSide":"left"},
+		{"id":"66a32c63ef338584","fromNode":"f50e14e8941ceef0","fromSide":"right","toNode":"8d99f8822cffcafb","toSide":"left"},
+		{"id":"6e984e7a61849cd7","fromNode":"f3aafba5f64f3bf4","fromSide":"right","toNode":"a0498073af2b3557","toSide":"left"},
+		{"id":"a6447935058b6e81","fromNode":"a0498073af2b3557","fromSide":"right","toNode":"f50e14e8941ceef0","toSide":"left"},
+		{"id":"75a3dc3edce3ddf7","fromNode":"33f47e5a5e032a38","fromSide":"top","toNode":"4bd5e75cab294a5f","toSide":"bottom"},
+		{"id":"23df239ff6c20c0e","fromNode":"33f47e5a5e032a38","fromSide":"bottom","toNode":"ad55e25e3e39b42e","toSide":"top"}
+	]
+}
