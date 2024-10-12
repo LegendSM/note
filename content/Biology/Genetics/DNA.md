@@ -20,7 +20,7 @@ There are 4 different nitrogenous bases and types of nucleotides in DNA and in R
 - **Guanine** (G)
 
 ##### RNA:
-- **Adenine (A)
+- **Adenine** (A)
 - **Uracil** (U)
 - **Cytosine** (C)
 - **Guanine** (G)
@@ -29,6 +29,7 @@ DNA and RNA have the same nitrogenous bases, except for **Thymine** (in DNA) and
 
 ### Complement Base Pairing Rule:
 In DNA, there are 2 chains of nucleotides where each nucleotide of one is connected to a nucleotide of the other. The rule says, in brief, that **Adenine can only pair with Thymine or Uracil** and that **Cytosine can only pair with Guanine**. There will never be any pairings that deviate from this rule.
+***
 # Nucleic Acid Structure
 
 ## DNA is made up of:
