@@ -30,17 +30,15 @@ The stages of a cell's life are described in the
 	- #### This is the longest stage
 	- #### It varies in time depending on the species and cell
 	- #### This is the active period in the life of a cell where biochemical reactions, protein synthesis, and DNA replication occurs
-
+  
+  ‎ ‎ 
 - ## Mitotic Phase
 	- ### Mitosis - Nuclear Division
 		- **Prophase** - The nuclear membrane is dissolving, the centriole pairs are moving to opposite poles of the cell, and the spindle fibres are starting to form from the centrioles.
 		- **Metaphase** - The chromosomes are all aligned at the middle of the cell (equator or metaphase plate) and the spindle fibres attach to proteins at the centromeres of each cell.
 		- **Anaphase** - The sister chromatids split as the spindle fibres pull them to opposite poles of the cell.
 		- **Telophase** - Chromosomes decondense back into chromatin, the nuclear membranes start forming in the 2 new daughter cells, the spindle fibres disappear, and cytokinesis is evident.
-
-> [!info] What produces spindle fibres in plant cells?
-> Plants don't have centriole pairs, but they have other organelles which produce the spindle fibres instead.
-
+		‎ 
 	- ### Cytokinesis - Cellular Division
 		- #### Starts during late anaphase to early telophase
 		- #### Is **NOT** part of mitosis
@@ -48,3 +46,11 @@ The stages of a cell's life are described in the
 			- Animal cells aren't rigid so at the metaphase plate, the cell pulls inwards, creating a **cleavage furrow** and completes with 2 separate daughter cells when it meets in the centre.
 		- #### Plant Cells:
 			- Plant cells are more rigid than animal cells due to the cell wall, so after anaphase the cell forms a **cell plate** at the metaphase plate. This is a preliminary cell wall and grows into one.
+
+> [!info] What produces spindle fibres in plant cells?
+> Plants don't have centriole pairs, but they have other organelles which produce the spindle fibres instead.
+
+***
+# Results
+
+### Mitosis produces 2 genetically identical daughter cells.
