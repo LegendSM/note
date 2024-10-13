@@ -39,7 +39,7 @@ An old term for meiosis is "reduction division" since it reduces the chromosome 
 - #### Random segregation of chromosomes in metaphase I
 	- There are different possible ways for homologous chromosomes to align in metaphase I
 	- The maternal chromosomes can all move to the same pole or have a combination of some moving to the same one whilst some moving to a different one and likewise with the paternal chromosomes. Homologous chromosomes pair together, but there's no rules on which side the maternal/paternal chromosomes are located.
-	- This results in 2^n different possible gametes from this process
+	- This results in $2^n$ different possible gametes from this process
 ***
 # Stages of Meiosis
 
